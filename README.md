@@ -9,7 +9,7 @@
   
 
 
-## 一、obtain Weibo text
+## 1.obtain Weibo text
 <div align="center">
 
 ![](http://image.wenzhihuai.com/images/20171217053231.png)
@@ -18,7 +18,7 @@
 
 
 
-## 二、Preliminary classification of SVM
+## 2.Preliminary classification of SVM
 <div align="center">
 
 ![](http://image.wenzhihuai.com/images/20171217053051.png)
@@ -27,7 +27,7 @@
 
 
 
-## 三、Use Bayesian theorem to analyze emotion
+## 3.Use Bayesian theorem to analyze emotion
 <div align="center">
 
 ![](http://image.wenzhihuai.com/images/20171217043913.png)
@@ -35,7 +35,7 @@
 </div>
 
 
-## 四、AdaBoost
+## 4.AdaBoost
 #### 4.1 AdaBoost
 <div align="center">
 
